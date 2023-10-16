@@ -1,5 +1,5 @@
 # <h1 align="center">Site de um banco fictício com validação de cadastro e reconhecimento facial, feito durante um curso de Javascript.</h1>
-
+# 
 <h3 align="center">Tela inicial</h3>
 <div align="center">
   <img src="https://github.com/DeangellesES/validacao_de_formulario-JavaScript/blob/main/p%C3%A1ginaInicial.png" width="800">
