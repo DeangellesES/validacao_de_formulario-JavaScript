@@ -1,5 +1,9 @@
 # <h1 align="center">Site de um banco fictício com validação de cadastro e reconhecimento facial, feito durante um curso de Javascript.</h1>
-# 
+<br>
+<h3 align="start">link do site</h3>
+
+<a>https://deangelleses.github.io/validacao_de_formulario-JavaScript/</a>
+<br>
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
